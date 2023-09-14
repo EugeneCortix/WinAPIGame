@@ -1,0 +1,16 @@
+﻿  Source.c
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(34,18): warning C4133: =: несовместимые типы - из "char [9]" в "LPCWSTR"
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(35,19): warning C4133: =: несовместимые типы - из "char [18]" в "LPCWSTR"
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(39,9): warning C4133: функция: несовместимые типы - из "char [18]" в "LPCWSTR"
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(39,9): warning C4133: функция: несовместимые типы - из "char [9]" в "LPCWSTR"
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(104,18): warning C4020: PaintGrid: слишком много фактических параметров
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(117,27): warning C4047: функция: "const RECT *" отличается по уровням косвенного обращения от "LPSTR *"
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(117,24): warning C4024: InvalidateRect: различные типы для формального и фактического параметров 2
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(186,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(195,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(205,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(212,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\TANYA\source\repos\WindowsProjectfckn\WindowsProjectfckn\Source.c(216,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  WindowsProjectfckn.cpp
+LINK : warning LNK4067: неоднозначная точка входа; выбрана "WinMainCRTStartup"
+  WindowsProjectfckn.vcxproj -> C:\Users\TANYA\source\repos\WindowsProjectfckn\Debug\WindowsProjectfckn.exe
